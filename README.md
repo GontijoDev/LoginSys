@@ -20,6 +20,6 @@ Antes de executar o projeto, certifique-se de ter o Python instalado e as seguin
 
 Você pode instalar todas as dependências necessárias com o seguinte comando:
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 Bom uso :D
